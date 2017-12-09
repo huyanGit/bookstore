@@ -1,0 +1,13 @@
+*.class
+*.jar
+
+#idea
+.idea/
+/idea/
+out/
+*.ipr
+*.iml
+*.iws
+
+#system ignore
+.DS_Store
